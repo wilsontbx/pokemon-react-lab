@@ -8,7 +8,7 @@
 ## Start
 
 ```sh
-git clone
+git clone https://github.com/thoughtworks-jumpstart/pokemon-react-lab.git
 npm install
 npm start
 ```
